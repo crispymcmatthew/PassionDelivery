@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676547210807",
+    "project_id": "passion-delivery-52a5d",
+    "storage_bucket": "passion-delivery-52a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676547210807:android:a0522502fa074f052b19b2",
+        "android_client_info": {
+          "package_name": "com.crispymcmatthew.passion_delivery.passion_delivery2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676547210807-6rpfjslf41n01uue2o673cp01c0995tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnz_5RMxBBqcQGh2uesweN6kGvblgtRLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676547210807-6rpfjslf41n01uue2o673cp01c0995tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
